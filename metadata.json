@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Multiverse",
+  "description": "An advanced web application showcasing the diverse capabilities of the Gemini API, including multimodal chat, image and video generation, real-time conversation, and content analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
